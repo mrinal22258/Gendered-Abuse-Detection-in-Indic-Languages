@@ -1,1 +1,1 @@
-Just upload all the dataset files on your jupyter notebook and then with access to your device gpu RUN all the cells in the .ipynb files
+Just upload all the dataset files on your jupyter notebook and then with access to your device gpu RUN all the cells in the .ipynb files and in addition to that make sure to have glove_embeddings.json file uploaded at the same place too.
