@@ -23,7 +23,7 @@ This project focuses on detecting gendered abuse in texts across three languages
 
 - `glove_embeddings.json` – Pre-trained GloVe embeddings used for vector representation.
 - `dataset/` – Contains the datasets in English, Hindi, and Tamil.
-- `gendered_abuse_detection.ipynb` – Main notebook containing all code and is different for all languages and dataset.
+- `gendered_abuse_detection.ipynb` – Main notebook containing all code and is different for all languages and dataset...
 - `report.pdf` – Detailed documentation of the project.
 
 ---
