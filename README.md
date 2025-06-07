@@ -14,7 +14,7 @@ This project focuses on detecting gendered abuse in texts across three languages
 
 3. **Run the Notebook**
    - Open the `.ipynb` file in Jupyter Notebook or JupyterLab.
-   - Run all cells sequentially to execute the preprocessing, model training, and evaluation steps.
+   - Run all cells sequentially to execute the preprocessing, model training, and evaluation steps...
 
 4. **Report**
    - For an in-depth understanding of the methodology, architecture, and evaluation, refer to the accompanying project report (`report.pdf`)..
