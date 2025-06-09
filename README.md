@@ -9,8 +9,8 @@ This project focuses on detecting gendered abuse in texts across three languages
    - Upload `glove_embeddings.json` to the same location.
 
 2. **Environment**
-   - Recommended: Use a system with GPU support for optimal performance.
-   - Ensure all necessary Python packages are installed. 
+   - Recommended: Use a system with GPU support for optimal performance..
+   - Ensure all necessary Python packages are installed..
 
 3. **Run the Notebook**
    - Open the `.ipynb` file in Jupyter Notebook or JupyterLab.
