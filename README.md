@@ -28,4 +28,4 @@ This project focuses on detecting gendered abuse in texts across three languages
 
 ---
 
-Feel free to contribute or reach out if you encounter any issues.
+Feel free to contribute or reach out if you encounter any issues...
