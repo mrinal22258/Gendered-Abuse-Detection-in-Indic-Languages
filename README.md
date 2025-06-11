@@ -13,7 +13,7 @@ This project focuses on detecting gendered abuse in texts across three languages
    - Ensure all necessary Python packages are installed..
 
 3. **Run the Notebook**
-   - Open the `.ipynb` file in Jupyter Notebook or JupyterLab.
+   - Open the `.ipynb` file in Jupyter Notebook or JupyterLab...
    - Run all cells sequentially to execute the preprocessing, model training, and evaluation steps...
 
 4. **Report**
